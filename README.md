@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Nazwa Putri Nadhipa**.\
+Perkenalkan nama saya **Nazwa Putri Nadhipa**
 
 Saya seorang **Mahasiswa S1 Teknik Komputer** di Universitas Pendidikan Indonesia
 
