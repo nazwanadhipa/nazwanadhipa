@@ -1,7 +1,7 @@
-# Halo semua! 
+# Hi everyone!
 
-Perkenalkan nama saya **Nazwa Putri Nadhipa**
+Introduce my name **Nazwa Putri Nadhipa**
 
-Saya seorang **Mahasiswa S1 Teknik Komputer** di Universitas Pendidikan Indonesia
+I'm a **Student in Computer Engineering** at the Universitas Pendidikan Indonesia
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nazwaputrinadhipa/)ku ya.
+If you are interested in sympathizing with me, please follow my [Linkedin](https://www.linkedin.com/in/nazwaputrinadhipa/) account.
